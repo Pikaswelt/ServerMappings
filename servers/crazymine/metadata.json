@@ -1,0 +1,37 @@
+{
+    "id": "crazynine",
+    "name": "CrazyMine",
+    "description": "Minecraft Netzwerk mit Herz",
+    "addresses": [
+        "crazymine.de"
+    ],
+    "primaryAddress": "crazymine.de",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "CityBuild",
+        "SMP",
+        "CrazyPark",
+        "PvP"
+      
+    ],
+    },
+    "presentationVideo": "jUuozH0ZH_s",
+    "socials": {
+        "discord": "https://discord.gg/Pe546se3FF"
+    },
+    "crossplay": true
+}
